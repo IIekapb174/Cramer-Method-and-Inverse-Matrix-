@@ -36,7 +36,7 @@ namespace Kramer
            
         }
 
-        //Я написала какую то хуйню0
+        
         private void Start_Click(object sender, EventArgs e)
         {
             b11 = Convert.ToInt32(a11.Text);
